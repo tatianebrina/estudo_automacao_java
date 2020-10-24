@@ -1,0 +1,27 @@
+2020-10-24 12:05:45 INFO  - clicaNotebook
+2020-10-24 12:05:47 INFO  - clicaNotebook
+2020-10-24 12:05:50 INFO  - Retorna Valor do Produto
+2020-10-24 12:05:50 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-24 12:05:50 INFO  - R$ 6.799,99
+2020-10-24 12:05:51 INFO  - Teste: org.junit.rules.TestName@4b45a2f5 Finalizado com Sucesso!
+2020-10-24 12:05:51 INFO  - Tempo de execu��o: 15 - segundos
+2020-10-24 16:02:03 INFO  - Teste: org.junit.rules.TestName@11eadcba Finalizado com Sucesso!
+2020-10-24 16:02:03 INFO  - Tempo de execução: 7 - segundos
+2020-10-24 16:02:15 INFO  - [Ljava.lang.StackTraceElement;@42b64ab8 unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-K4NK9LE', ip: '172.40.51.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: cccab1cace4c6bb95ac48781a2c1d1ae
+2020-10-24 16:02:15 INFO  - Teste: org.junit.rules.TestName@410ae9a3 Finalizado com Sucesso!
+2020-10-24 16:02:15 INFO  - Tempo de execução: 12 - segundos
+2020-10-24 16:04:33 INFO  - Teste: org.junit.rules.TestName@37bd68c3 Finalizado com Sucesso!
+2020-10-24 16:04:33 INFO  - Tempo de execução: 6 - segundos
+2020-10-24 16:04:48 INFO  - clicaNotebook
+2020-10-24 16:04:49 INFO  - clicaNotebook
+2020-10-24 16:04:51 INFO  - Retorna Valor do Produto
+2020-10-24 16:04:52 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-24 16:04:52 INFO  - R$ 6.799,99
+2020-10-24 16:04:53 INFO  - Teste: org.junit.rules.TestName@674c583e Finalizado com Sucesso!
+2020-10-24 16:04:53 INFO  - Tempo de execução: 19 - segundos
